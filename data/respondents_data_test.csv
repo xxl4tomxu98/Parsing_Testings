@@ -1,0 +1,501 @@
+firstName,gender,jobTitle,industry,city,latitude,longitude
+Jefferson,male,.NET Developer,"Banking,Information Technology and Services,Transportation/Trucking/Railroad,Computer Software","New York, NY, USA",40.7127753,-74.0059728
+Jillian,female,3D Artist,"Computer Software,Entertainment","Brooklyn, NY, USA",40.6781784,-73.9441579
+Vivek,male,AI/ML Scientist,"Financial Services,Computer Software,Electrical/Electronic Manufacturing,Research,Nanotechnology","New York, NY, USA",40.7127753,-74.0059728
+Erica,female,Account Executive,"Computer Software,Telecommunications,Banking,Computer Hardware,Internet","New York, NY, USA",40.7127753,-74.0059728
+Lenny,male,Account Executive,"Telecommunications,Hospital & Health Care,Computer Software,Financial Services","Dallas, TX, USA",32.7766642,-96.7969879
+Troy,male,Account Executive,"Internet,Human Resources,Staffing and Recruiting,Computer Software","New York, NY, USA",40.7127753,-74.0059728
+Matthew,male,Account Executive,"Health, Wellness and Fitness,Information Technology and Services,Commercial Real Estate,Real Estate,Computer Software","Philadelphia, PA, USA",39.9525839,-75.1652215
+Alyson,female,Account Manager,"Computer Software,Marketing and Advertising,Apparel & Fashion","Dallas, TX, USA",32.7766642,-96.7969879
+Lindsay,female,Account Manager,"Computer Software,Health, Wellness and Fitness","Dallas, TX, USA",32.7766642,-96.7969879
+Sarah,female,Account Manager,"Marketing and Advertising,Public Relations and Communications,Computer Software","New York, NY, USA",40.7127753,-74.0059728
+Brian,male,Account Manager - Sales and Client Services,"Broadcast Media,Computer Software,Entertainment,Internet,Marketing and Advertising","New York, NY, USA",40.7127753,-74.0059728
+Megha,female,Acharya,Computer Software,"Miami, FL, USA",25.7616798,-80.1917902
+Jonathan,male,Actuarial Analyst,"Insurance,Computer Software,E-Learning,Financial Services,Banking","Philadelphia, PA, USA",39.9525839,-75.1652215
+M,female,Admin Assistant,"Financial Services,Fine Art,Computer Software,E-Learning,Internet","New York, NY, USA",40.7127753,-74.0059728
+Fahad,male,Advisor,"Logistics and Supply Chain,Education Management,Information Technology and Services,Venture Capital & Private Equity,Computer Software","New York, NY, USA",40.7127753,-74.0059728
+Julian,male,Affiliate Marketer,"Computer Software,Computer Networking,Electrical/Electronic Manufacturing,Financial Services,Marketing and Advertising","Brooklyn, NY, USA",40.6781784,-73.9441579
+Chloe,female,Analyst,"Management Consulting,Design,Environmental Services,Mechanical or Industrial Engineering,Computer Software","Dallas, TX, USA",32.7766642,-96.7969879
+Emma,female,Analyst,Computer Software,"New York, NY, USA",40.7127753,-74.0059728
+Orson,male,Analyst,"Education Management,Government Administration,E-Learning,Computer Software","Brooklyn, NY, USA",40.6781784,-73.9441579
+Kadir,male,Analyst,"Hospital & Health Care,Computer Games,Computer Software,Consumer Goods,Mining & Metals","New York, Birleşik Devletler",40.7127753,-74.0059728
+Lucy,female,"Analyst, Business Analysis & Reporting","Computer Software,Health, Wellness and Fitness,Management Consulting,Internet,Information Technology and Services","New York, NY, USA",40.7127753,-74.0059728
+Allison,female,Application Specialist,"Information Technology and Services,Computer Software","Philadelphia, PA, USA",39.9525839,-75.1652215
+Sediqua,female,Assistant Editor,"Motion Pictures and Film,Broadcast Media,Computer Hardware,Computer Software,Cosmetics","Brooklyn, NY, USA",40.6781784,-73.9441579
+Tommy,male,Associate Analyst,"Financial Services,Market Research,Retail,Computer Software","New York, NY, USA",40.7127753,-74.0059728
+Brandon,male,"Associate Product Manager, Growth","Computer Games,Computer Software,Consumer Electronics,Marketing and Advertising,Sports","Los Angeles, CA, USA",34.0522342,-118.2436849
+Tory,female,Associate Software Engineer,"Computer Software,Financial Services","Dallas, TX, USA",32.7790911,-96.8002704
+Sebastian,male,Associate Technical Architect,"Computer Software,Information Technology and Services,Internet,E-Learning,Marketing and Advertising","New York, NY, USA",40.7127753,-74.0059728
+Asad,male,Bank Teller,"Financial Services,Banking,Computer Software,Health, Wellness and Fitness,Legal Services","Brooklyn, NY, USA",40.6781784,-73.9441579
+Zai,male,Barista/server/bartender,"Graphic Design,Computer & Network Security,Computer Games,Computer Software,Consumer Electronics","New York, NY, USA",40.7127753,-74.0059728
+Diego,male,Billing Support,"Internet,Information Technology and Services,Music,Computer Software,Consumer Services","Los Angeles, CA, USA",34.0522342,-118.2436849
+Pranay,male,Blockchain Research Scientist,"Computer Software,Capital Markets,Computer & Network Security,Information Technology and Services,Computer Networking","New York, NY, USA",40.7127753,-74.0059728
+Vanessa,female,Brand Marketing Manager,"Computer Software,Hospitality,Marketing and Advertising","New York, NY, USA",40.7127753,-74.0059728
+Emily,female,Business Analyst,"Food & Beverages,Market Research,Marketing and Advertising,Program Development,Computer Software","Miami, FL, USA",25.7616798,-80.1917902
+Alexandra,female,"Business Analyst, Income Qualified Programs","Computer Software,Government Administration,Marketing and Advertising,Oil & Energy,Utilities","Los Angeles, CA, USA",34.0522342,-118.2436849
+Deanna,female,Business Development,Computer Software,"New York, NY, USA",40.7127753,-74.0059728
+Darius,male,Business Intelligence Consultant,"Information Technology and Services,Financial Services,Computer Software,Information Services,Management Consulting","New York, NY, USA",40.7127753,-74.0059728
+Julia,female,C++ Developer,"Computer Software,Music,Internet","New York, NY, USA",40.7127753,-74.0059728
+James,male,CEO,"Computer Software,Design,E-Learning,Professional Training & Coaching,Internet","Los Angeles, CA, USA",34.0522342,-118.2436849
+Alex,male,CEO,"Financial Services,Computer Software,Consumer Services,Investment Banking,Health, Wellness and Fitness","New York, NY, USA",40.7127753,-74.0059728
+Steve,male,CEO & Co-Founder,"Computer Software,Marketing and Advertising,Venture Capital & Private Equity,Information Technology and Services,Apparel & Fashion","Philadelphia, PA, USA",39.9525839,-75.1652215
+Lindsey,female,CEO & Co-founder,"Health, Wellness and Fitness,Computer & Network Security,Computer Software,Information Technology and Services","New York, NY, USA",40.7127753,-74.0059728
+Jacob,male,CEO & Founder,"Computer Software,Mechanical or Industrial Engineering,Venture Capital & Private Equity,Consumer Goods,Design","Los Angeles, CA, USA",34.0522342,-118.2436849
+Kizz,male,CEO & Founder,"Computer & Network Security,Computer Games,Computer Networking,Computer Software,Market Research","Brooklyn, NY, USA",40.6781784,-73.9441579
+Gloria,female,CEO & Founder,"Apparel & Fashion,Computer Hardware,Computer Software,Consumer Electronics,Cosmetics","Los Angeles, CA, USA",34.0522342,-118.2436849
+Percy,male,CEO & Founder,"Graphic Design,Photography,Computer Software,Primary/Secondary Education,Printing","Dallas, TX, USA",32.7766642,-96.7969879
+Andre,male,CEO of purchasing and sales,"Computer Hardware,Computer Games,Computer Software,Design,Internet","Miami, Flórida, EUA",25.7616798,-80.1917902
+Naomi,female,"CEO, Founder",Computer Software,"New York, NY, USA",40.7127753,-74.0059728
+Nicholas,male,CISO Membership Manager,"Information Technology and Services,Arts and Crafts,Computer Software,Food & Beverages,Motion Pictures and Film","New York, NY, USA",40.7127753,-74.0059728
+Kat,female,CMO | Chief Marketing Officer,"Market Research,Marketing and Advertising,Consumer Services,Computer Software,Glass, Ceramics & Concrete","New York, NY, USA",40.7127753,-74.0059728
+Mac,male,CNC Machinist,"Mechanical or Industrial Engineering,Computer Hardware,Graphic Design,Internet,Computer Software","New York, NY, USA",40.7127753,-74.0059728
+Anton,male,CONTRACTOR,"Entertainment,Design,Computer Software,Graphic Design,Higher Education","New York, NY, USA",40.7127753,-74.0059728
+Virginia,female,CRM Marketing Manager,"Computer Software,Entertainment,Marketing and Advertising,Music,Internet","New York, NY, USA",40.7127753,-74.0059728
+Chris,male,CTO,"Computer Software,Internet,Leisure, Travel & Tourism,Consumer Services","New York, NY, USA",40.7127753,-74.0059728
+Meena,female,CX Associate Belgium,"Marketing and Advertising,Banking,Computer Software,Consumer Goods,Cosmetics","Brooklyn, NY, USA",40.6781784,-73.9441579
+Cameren,male,Cartography,"Information Technology and Services,Automotive,Computer Software,Farming,Graphic Design","Dallas, TX, USA",32.7766642,-96.7969879
+Bryan,male,Chief Executive Officer,"Internet,Computer Software,Computer & Network Security","Miami, FL, USA",25.7616798,-80.1917902
+Angie,female,Chief Product Officer,"Graphic Design,Biotechnology,Computer Software,Health, Wellness and Fitness,Information Technology and Services","New York, NY, USA",40.7127753,-74.0059728
+Jimmy,male,Chief Technology Officer,"Graphic Design,Computer Software,Design,Information Technology and Services","New York, NY, USA",40.7127753,-74.0059728
+Rich,male,Chief Technology Officer,"Financial Services,Computer Software,Executive Office","New York, NY, USA",40.7127753,-74.0059728
+Shawn,male,Chief Technology Officer/Lead Developer,"Information Technology and Services,Internet,Computer Software","New York, NY, USA",40.7127753,-74.0059728
+Daniel Edward,male,Client Account Manager,"Information Technology and Services,Management Consulting,Oil & Energy,Computer Software,Outsourcing/Offshoring","New York, NY, USA",40.7127753,-74.0059728
+Kristen,female,Client Experience Manager of Product,"Information Technology and Services,Management Consulting,Food Production,Computer Software","New York, NY, USA",40.7127753,-74.0059728
+Barrie,male,Client Relations Specialist,"Broadcast Media,Information Technology and Services,Computer Software","New York, NY, USA",40.7127753,-74.0059728
+Emily,female,Client Success Analyst ,"Apparel & Fashion,Computer Software,Information Technology and Services,Retail,Consumer Services","New York, NY, USA",40.7127753,-74.0059728
+Steve,male,Client Success Manager,"Fund-Raising,Marketing and Advertising,Computer Software","New York, NY, USA",40.7127753,-74.0059728
+Jon,male,Cloud Business Analyst,"Automotive,Computer & Network Security,Computer Software,Food & Beverages,Entertainment","Woodland Hills, Los Angeles, CA, USA",34.165357,-118.6089752
+Asriel,male,Cloud Support Engineer,"Computer & Network Security,Computer Networking,Computer Hardware,Computer Software,Consumer Electronics","Dallas, TX, USA",32.7766642,-96.7969879
+Daniel,male,Cloud Support Engineer,"Computer & Network Security,Computer Software,Information Technology and Services","Far North Dallas, Dallas, TX, USA",32.9620968,-96.7863844
+Wayne,male,Co-Founder,"Computer Software,Human Resources,Staffing and Recruiting","New York, NY, USA",40.7127753,-74.0059728
+Taylan,male,Co-Founder,"Marketing and Advertising,Online Media,Internet,Hospital & Health Care,Computer Software","Los Angeles, CA, USA",34.0522342,-118.2436849
+Krish,male,Co-Founder,"Computer Software,Design,Graphic Design,Market Research,Tobacco","Los Angeles, CA, USA",34.0522342,-118.2436849
+Alex,male,Co-Founder,"Computer Software,Research","Brooklyn, NY, USA",40.6781784,-73.9441579
+Masi,male,Co-founder,"Information Technology and Services,Marketing and Advertising,Computer Software,Graphic Design,Health, Wellness and Fitness","New York, NY, USA",40.7127753,-74.0059728
+Eli,male,Cofounder,"Computer Software,Market Research,Fund-Raising,Research,Writing and Editing","New York, NY, USA",40.7127753,-74.0059728
+Hamid,male,Cognitive Technical Lead,"Computer & Network Security,Computer Networking,Computer Software,Program Development,Information Technology and Services","New York, NY, USA",40.7127753,-74.0059728
+Ron,male,Communication Systems Engineer,"Aviation & Aerospace,Defense & Space,Mechanical or Industrial Engineering,Automotive,Computer Software","Los Angeles, CA, USA",34.0522342,-118.2436849
+Jacqueline,female,Community Support Specialist,"Information Technology and Services,Arts and Crafts,Computer Software","Brooklyn, NY, USA",40.6781784,-73.9441579
+Gowtham,male,Computational Biologist,"Research,Computer Software,Medical Practice","New York, NY, USA",40.7127753,-74.0059728
+Rafael,male,Computer Programmer,"Computer Software,Computer Hardware,Computer Games,Computer Networking,Computer & Network Security","Miami, Flórida, EUA",25.7616798,-80.1917902
+Albert,male,Computer Technician,"Computer Hardware,Computer Software,Consumer Electronics,Computer Networking,Computer & Network Security","New York, NY, USA",40.7127753,-74.0059728
+Immanuel,male,Consultant,"Health, Wellness and Fitness,Automotive,Computer Software,Construction,Farming","Philadelphia, PA, USA",39.9525839,-75.1652215
+Mikel,female,Consultant,Computer Software,"New York, NY, USA",40.7127753,-74.0059728
+Tahsin,female,Consulting Analyst,"Management Consulting,Computer Software,Entertainment,Information Services,Music","New York, NY, USA",40.7127753,-74.0059728
+Mike,male,Cook,"Capital Markets,Computer Software,Philanthropy,Restaurants,Writing and Editing","Dallas, TX, USA",32.7766642,-96.7969879
+Yoshitomo,male,Creative Director & Co-founder,"Computer Games,Computer Software,Entertainment","Los Angeles, CA, USA",34.0522342,-118.2436849
+Frankie,male,Credit Repair Specialist,"Broadcast Media,Computer Software,Entertainment","Miami, FL, USA",25.7616798,-80.1917902
+Yasmin,female,Customer Service Representative,"Computer Software,Internet,Events Services,Hospital & Health Care,Management Consulting","New York, NY, USA",40.7127753,-74.0059728
+Michael,male,Customer Service Supervisor,"Computer Hardware,Computer Games,Political Organization,Retail,Computer Software","Brooklyn, NY, USA",40.6781784,-73.9441579
+Meagan,female,Customer Success Associate,"Marketing and Advertising,Media Production,Online Media,Computer Software","New York, NY, USA",40.7127753,-74.0059728
+Sarah,female,Customer Success Manager,Computer Software,"Los Angeles, CA, USA",34.0522342,-118.2436849
+Elise,female,Customer Success Manager,"Computer Software,E-Learning,Information Technology and Services,Internet,Marketing and Advertising","New York, NY, USA",40.7127753,-74.0059728
+Drew,male,Customer Success Manager,"Internet,Media Production,Computer Software,Information Technology and Services,Motion Pictures and Film","Los Angeles, CA, USA",34.0522342,-118.2436849
+Lia,female,Customer Support Engineer,"Computer Software,E-Learning,Furniture,Hospitality,Leisure, Travel & Tourism","New York, NY, USA",40.7127753,-74.0059728
+Kabir,male,Customer Support Specialist,"Apparel & Fashion,Computer Software,Design,Hospitality,Sports","Brooklyn, NY, USA",40.6781784,-73.9441579
+Max,male,Customer Value Manager,"Computer Software,Gambling & Casinos,Information Technology and Services,Management Consulting,Staffing and Recruiting","New York County, New York, NY, USA",40.7830603,-73.9712488
+Kyle,male,Data Analyst,"Capital Markets,Computer Software,Financial Services,Information Technology and Services,Investment Management","Brooklyn, NY, USA",40.6781784,-73.9441579
+Lillian,female,Data Analyst,Computer Software,"New York, NY, USA",40.7127753,-74.0059728
+Balázs,male,Data Engineer,"Information Technology and Services,Computer Software,Transportation/Trucking/Railroad","New York, NY, USA",40.7127753,-74.0059728
+Alix,female,Data Management Analyst,"Information Technology and Services,Airlines/Aviation,Food Production,Computer Software,Apparel & Fashion","Los Angeles, CA, USA",34.0522342,-118.2436849
+Rohit,male,Data Science Engineer,"Information Technology and Services,Computer Software,Internet","New York, NY, USA",40.7127753,-74.0059728
+Giancarlo,male,Data Scientist,"Computer & Network Security,Computer Software,Design,Graphic Design,Telecommunications","New York, NY, USA",40.7127753,-74.0059728
+Nevin,female,Data Scientist,"Computer Software,Information Technology and Services","Los Angeles, CA, USA",34.0522342,-118.2436849
+Elizabeth,female,Data Scientist,"Information Technology and Services,Computer Software,E-Learning","New York, NY, USA",40.7127753,-74.0059728
+Miriam,female,Data Scientist,Computer Software,"New York, NY, USA",40.7127753,-74.0059728
+Nikita,male,Data Scientist,"Computer Software,Retail","Los Angeles, CA, USA",34.0522342,-118.2436849
+Harshad,male,Data Scientist,"Banking,Hospital & Health Care,Computer Software","New York, NY, USA",40.7127753,-74.0059728
+Henry,male,Dedicated Technical Account Manager,"Information Technology and Services,Computer Software","Brooklyn, NY, USA",40.6781784,-73.9441579
+Brittany,female,Dental Assistant/Front Desk,"Hospital & Health Care,Computer Software,Entertainment,Internet,Medical Practice","Brooklyn, NY, USA",40.6781784,-73.9441579
+Henry,male,Designer,"Program Development,Graphic Design,Design,Computer Software,Consumer Goods","Miami, FL, USA",25.7616798,-80.1917902
+Ramon,male,Developer,Computer Software,"New York, NY, USA",40.7127753,-74.0059728
+Stephanie,female,"Digital Marketing, Content & Community Manager","Higher Education,Computer Software,Music,Primary/Secondary Education,Writing and Editing","New York, NY, USA",40.7127753,-74.0059728
+Victor,male,Digital Strategy Advisor,"Computer Software,Internet,Marketing and Advertising","Williamsburg, Brooklyn, NY, USA",40.7081156,-73.9570696
+Audrey,female,Dir. of Ad Notice Solutions,"Computer & Network Security,Computer Software,Information Technology and Services,Marketing and Advertising,Online Media","New York, NY, USA",40.7127753,-74.0059728
+João,male,Director,"Computer Software,Executive Office,Information Technology and Services,Information Services,Wireless","Los Angeles, CA, EUA",34.0522342,-118.2436849
+Kent,male,Director,"Financial Services,Management Consulting,Computer Software","Dallas, TX, USA",32.7766642,-96.7969879
+Christopher,male,Director Of Operations,"Computer Software,Electrical/Electronic Manufacturing,Information Technology and Services,Medical Devices,Pharmaceuticals","Philadelphia, PA, USA",39.9525839,-75.1652215
+Adam,male,Director Of Operations,"Information Technology and Services,Computer Software","New York, NY, USA",40.7127753,-74.0059728
+Jerry,male,Director of Accounting Systems & Mobile Technology,"Computer Software,Computer Hardware,Construction","Dallas, TX, USA",32.7766642,-96.7969879
+Carly,female,Director of IT,"Information Technology and Services,Computer Hardware,Computer Networking,Computer Software,Construction","Manhattan, New York, NY, USA",40.7830603,-73.9712488
+Jeremy,male,Director of Logistics,"Consumer Electronics,Logistics and Supply Chain,Research,Computer Networking,Computer Software","Los Angeles, CA, USA",34.0522342,-118.2436849
+Brittney,female,Director of Product ,"Internet,Health, Wellness and Fitness,Computer Software","New York, NY, USA",40.7127753,-74.0059728
+Keivn,male,Director of Product Management,Computer Software,"New York, NY, USA",40.7127753,-74.0059728
+Jeff,male,Director of Sales,"Computer Software,Hospitality,Management Consulting","New York, NY, USA",40.7127753,-74.0059728
+Katie,female,Director of Sales Development,"Computer Software,Graphic Design,Marketing and Advertising,Internet","New York, NY 10010, USA",40.7388319,-73.9815337
+Brandon,male,Director of User Experience,"Computer Software,Design,Graphic Design,Information Technology and Services,Media Production","Dallas, TX, USA",32.7766642,-96.7969879
+Alli,female,"Director, Creative Services","Media Production,Internet,Computer Software","New York, NY, USA",40.7127753,-74.0059728
+Kim,female,"Director, Emerging Technology & Innovation","Computer Software,Consumer Goods,Consumer Services,Health, Wellness and Fitness,Leisure, Travel & Tourism","New York, NY, USA",40.7127753,-74.0059728
+Tsvetta,female,"Director, Global Accounts","Computer Software,Marketing and Advertising,Higher Education,Non-Profit Organization Management,Fund-Raising","New York, NY, USA",40.7127753,-74.0059728
+Basil A. ,male,"Director, Sales & Sales Operations","Computer Software,Marketing and Advertising","New York, NY, USA",40.7127753,-74.0059728
+Raul,male,Electrical Engineer,"Automotive,Computer & Network Security,Computer Games,Computer Hardware,Computer Software","Miami, Florida, Statele Unite ale Americii",25.7616798,-80.1917902
+Jason,male,Electrical Engineer,"Consumer Electronics,Electrical/Electronic Manufacturing,Computer Hardware,Computer Software,Hospital & Health Care","New York, NY, USA",40.7127753,-74.0059728
+Shelby,female,Email Marketing Specialist,"Information Technology and Services,Marketing and Advertising,Computer Software","New York, NY, USA",40.7127753,-74.0059728
+Zakir,male,Employee,Computer Software,"Los Angeles, CA, USA",34.0522342,-118.2436849
+Ella,female,Employer Partnerships Lead,"Computer Software,Consumer Services,Human Resources,Information Technology and Services,Staffing and Recruiting","New York, NY, USA",40.7127753,-74.0059728
+Evelin,female,Engineer,"Telecommunications,Computer Hardware,Computer Networking,Computer Software,Computer Games","Miami, Florida, EE. UU.",25.7616798,-80.1917902
+Michael,male,Enterprise Client Executive - Healthcare & Life Sciences,"Information Technology and Services,Sports,Sporting Goods,Computer & Network Security,Computer Software","Dallas, TX, USA",32.7766642,-96.7969879
+Igor,male,Enterprise Customer Success Manager ,"Research,Market Research,Computer Software,Consumer Services,Design","Brooklyn, NY 11201, USA",40.68951,-73.986069
+Dasse,male,Entrepreneur,"Computer Software,Computer Networking,Computer & Network Security,Computer Hardware,Computer Games","Philadelphia, PA, USA",39.9525839,-75.1652215
+Elizabeth,female,Entrepreneur in Residence,"Computer Software,Design,Internet,Non-Profit Organization Management,Professional Training & Coaching","New York, NY, USA",40.7127753,-74.0059728
+Joseph,male,Executive Administrator,"Computer Networking,Computer Software,Consumer Services,Executive Office,Information Technology and Services","Los Angeles, CA 91601, USA",34.164976,-118.37604
+Emily,female,Executive Assistant,"Computer Software,Food & Beverages,Apparel & Fashion,Retail","Venice, Los Angeles, CA, USA",33.9850469,-118.4694832
+Laura,female,"Executive Assistant, Engineering","Computer & Network Security,Information Technology and Services,Computer Software","Miami, FL, USA",25.7616798,-80.1917902
+Bryson,male,Experienced Associate - Development / Coding,"Apparel & Fashion,Computer Software,Consumer Goods,Retail","New York, NY, USA",40.7127753,-74.0059728
+Jeffrey,male,Field Technician,"Information Technology and Services,Computer & Network Security,Computer Hardware,Computer Networking,Computer Software","Philadelphia, PA, USA",39.9525839,-75.1652215
+Joe,male,FinTech Marketing Consultant,"Financial Services,Information Technology and Services,Marketing and Advertising,Computer Software,Computer Hardware","New York, NY, USA",40.7127753,-74.0059728
+Dahae,female,Finance Coordinator,"Computer Games,Computer Software,Computer Hardware,Hospital & Health Care,Financial Services","New York County, New York, NY, USA",40.7830603,-73.9712488
+Allison,female,Financial Controller- NA and APAC,"Computer Software,Marketing and Advertising,Retail","New York, NY, USA",40.7127753,-74.0059728
+Frank,male,Founder,"Information Technology and Services,Apparel & Fashion,Health, Wellness and Fitness,Computer Software,Consumer Goods","Brooklyn, NY, USA",40.6781784,-73.9441579
+Bradley,male,Founder,"Information Technology and Services,Design,Computer Software,Research,Performing Arts","Brooklyn, NY, USA",40.6781784,-73.9441579
+Scott,male,Founder,"Internet,Consumer Goods,Apparel & Fashion,Computer Software,Online Media","New York, NY, USA",40.7127753,-74.0059728
+Kia,male,Founder,"Computer Games,Computer Software,Real Estate,Retail","New York, NY, USA",40.7127753,-74.0059728
+Pukar,male,Founder,"Broadcast Media,Media Production,Marketing and Advertising,Computer Software,Financial Services","New York, NY, USA",40.7127753,-74.0059728
+Roy,male,Founder,"Information Technology and Services,Computer Software,Information Services,Internet,Marketing and Advertising","Philadelphia, PA, USA",39.9525839,-75.1652215
+Kristina,female,Founder and CEO,"Financial Services,Banking,Capital Markets,Computer Software","New York, NY, USA",40.7127753,-74.0059728
+Karin,female,Freelance Consultant and Creative,"Computer Software,Graphic Design,Health, Wellness and Fitness,Market Research,Photography","New York, NY, USA",40.7127753,-74.0059728
+Chris,male,Freelance Full-Stack Developer,Computer Software,"New York, NY, USA",40.7127753,-74.0059728
+Kendra,female,Freelance Web Designer,"Graphic Design,Religious Institutions,Computer Software,Computer Games,Fine Art","Brooklyn, NY, USA",40.6781784,-73.9441579
+Kayla,female,Front End Developer,"Alternative Medicine,Computer Software,Cosmetics,E-Learning,Health, Wellness and Fitness","Los Angeles, CA, USA",34.0522342,-118.2436849
+Jarrett,male,Full Stack Engineer,Computer Software,"Winnetka, Los Angeles, CA, USA",34.2048586,-118.5739621
+Jonah,male,Full Stack Engineer,"Computer Software,Computer Networking,Computer Hardware,Design,Internet","New York, NY, USA",40.7127753,-74.0059728
+Harrison,male,Game Developer,"Computer Games,Graphic Design,Photography,Computer Software,Sports","Los Angeles, CA, USA",34.0522342,-118.2436849
+Chisato,female,Gender SME,"Apparel & Fashion,Computer Games,Computer Software,Design,International Affairs","New York, NY, USA",40.7127753,-74.0059728
+Luke,male,General Partner,"Venture Capital & Private Equity,Management Consulting,Automotive,Renewables & Environment,Computer Software","Los Angeles, CA, USA",34.0522342,-118.2436849
+Justine,female,Global Marketing,"Computer Software,Information Technology and Services,Internet,Marketing and Advertising,Online Media","New York, NY, USA",40.7127753,-74.0059728
+Dan,male,Graduate Student,"Computer Software,Consumer Electronics,Entertainment","Brooklyn, NY, USA",40.6781784,-73.9441579
+Priyanshu,male,Graduate Student,"Banking,Computer Software,Consumer Electronics,Consumer Services,Financial Services","Dallas, TX, USA",32.7766642,-96.7969879
+Joel ,male,Graduate Student Researcher,"Information Technology and Services,Automotive,Banking,Computer Software,Insurance","Philadelphia, PA, USA",39.9525839,-75.1652215
+Julia ,female,Graphic Designer & Multimedia Specialist,"Marketing and Advertising,Graphic Design,Computer Software","Miami, FL, USA",25.7616798,-80.1917902
+Andrew,male,Greenlight Team Lead,"Information Technology and Services,Computer Software,Package/Freight Delivery,Professional Training & Coaching,Transportation/Trucking/Railroad","New York, NY, USA",40.7127753,-74.0059728
+Aram,male,Group C&PS Senior Data Architect,"Computer Software,Computer Networking,Computer Hardware","New York, NY, USA",40.7127753,-74.0059728
+Haley,female,Growth Marketing Manager,"Marketing and Advertising,Staffing and Recruiting,Architecture & Planning,Computer Software,Non-Profit Organization Management","New York, NY, USA",40.7127753,-74.0059728
+Daniel,male,Growth Strategy Manager,"Computer Software,Staffing and Recruiting,Human Resources","New York, NY, USA",40.7127753,-74.0059728
+Dmitry,male,Growth and community,"Computer Software,Marketing and Advertising,Music,Information Technology and Services","Los Angeles, CA, USA",34.0522342,-118.2436849
+Henry,male,Head of Business Development,"Computer Games,Computer Software,Design,Market Research,Writing and Editing","New York, NY, USA",40.7127753,-74.0059728
+Jessica,female,Head of Delivery,"Marketing and Advertising,Computer Software,Graphic Design,Insurance,Management Consulting","New York, NY, USA",40.7127753,-74.0059728
+Marcella,female,Head of US Service Delivery,"Computer Software,Internet,Marketing and Advertising,Design","Los Angeles, CA, USA",34.0522342,-118.2436849
+Lauren,female,Health Informaticist,"Biotechnology,Information Technology and Services,Hospital & Health Care,Computer Software,Information Services","New York, NY, USA",40.7127753,-74.0059728
+Briana,female,Health Planner and Website Coordinator,"Public Policy,Computer Software,Government Administration,Civic & Social Organization,Marketing and Advertising","Philadelphia, PA, USA",39.9525839,-75.1652215
+Shi,female,Help Desk Support Technician,"Computer Software,Health, Wellness and Fitness,Information Technology and Services,Law Enforcement,Consumer Goods","Philadelphia, PA, USA",39.9525839,-75.1652215
+Taurean,female,Helpdesk Technician,"Hospital & Health Care,Financial Services,Information Technology and Services,Computer Hardware,Computer Software","Dallas Pkwy, Dallas, TX, USA",32.971295,-96.821787
+Joseph (Joe),male,I.T. Service Desk Consultant,"Computer Hardware,Computer Software,Computer Games,Computer & Network Security,Consumer Electronics","Philadelphia, PA, USA",39.9525839,-75.1652215
+Sonali,female,IT Audit and Data Analytics Intern,"Retail,Banking,Computer Software,Education Management,Logistics and Supply Chain","Dallas, TX, USA",32.7766642,-96.7969879
+Brian,male,IT Business Analyst,"Business Supplies and Equipment,Computer & Network Security,Information Technology and Services,Retail,Computer Software","Philadelphia, PA, USA",39.9525839,-75.1652215
+Kaseem,male,IT Consultant,"Information Technology and Services,Wholesale,Computer Software,Computer & Network Security,Telecommunications","Philadelphia, PA, USA",39.9525839,-75.1652215
+Edgar,male,IT Consultant,"Information Services,Information Technology and Services,Computer Hardware,Computer Software,E-Learning","Dallas, TX, USA",32.7766642,-96.7969879
+Li,male,IT Engineer,"Information Technology and Services,Logistics and Supply Chain,Computer Software","Los Angeles, CA, USA",34.0522342,-118.2436849
+Joaquin,male,IT Engineer,"Broadcast Media,Computer Software,Information Technology and Services,Motion Pictures and Film,Computer Hardware","Los Angeles, CA, USA",34.0522342,-118.2436849
+Vasyl,male,IT Specialist,"Information Technology and Services,Computer Software,Computer Games,Restaurants,E-Learning","New York, NY, USA",40.7127753,-74.0059728
+Matt,male,IT Systems Administrator,"Automotive,Computer Software,Computer Hardware,Consumer Electronics,Computer Games","New York, NY, USA",40.7127753,-74.0059728
+Dwight E,male,Inbound Marketing  Consultant focused on Lead Generation & Nurturing,"Banking,Computer Networking,Computer Software,Entertainment,Internet","Philadelphia, PA, USA",39.9525839,-75.1652215
+David,male,Information Systems Manager - Sales,"Information Technology and Services,Consumer Goods,Food & Beverages,Management Consulting,Computer Software","Manhattan, New York, NY, USA",40.7830603,-73.9712488
+Carlos,male,Information Technology Support Specialist,"Information Technology and Services,Computer Software","Brooklyn, NY, USA",40.6781784,-73.9441579
+Ilyes,male,Ingénieur logiciels,"Computer & Network Security,Information Technology and Services,Computer Software,Computer Networking,Computer Hardware","New York, NY, USA",40.7127753,-74.0059728
+Omri,male,Innovation Analyst,"Computer Software,Sports,Consumer Goods,Venture Capital & Private Equity,Retail","New York, NY, USA",40.7127753,-74.0059728
+Nathan,male,Instructional Assistant,"Computer Software,E-Learning,Sports,Health, Wellness and Fitness","Philadelphia, PA, USA",39.9525839,-75.1652215
+Alexandra,female,Instructional Design Intern,"E-Learning,Education Management,Graphic Design,Professional Training & Coaching,Computer Software","Los Angeles, CA, USA",34.0522342,-118.2436849
+Akshara,female,Intern,"Computer Software,Computer & Network Security,Consumer Services,Information Technology and Services,Industrial Automation","New York, NY, USA",40.7127753,-74.0059728
+Brian,male,Intern,"Automotive,Banking,Commercial Real Estate,Computer Software,Information Technology and Services","New York, NY, USA",40.7127753,-74.0059728
+Keely,female,Internal Sales Consultant,"Marketing and Advertising,Information Technology and Services,Computer Networking,Computer Software,Consumer Goods","Dallas, TX, USA",32.7766642,-96.7969879
+Arlet,female,Internship,Computer Software,"Miami, FL, USA",25.7616798,-80.1917902
+Scott,male,Investment Sales,"Architecture & Planning,Real Estate,Financial Services,Commercial Real Estate,Computer Software","Los Angeles, CA, USA",34.0522342,-118.2436849
+Spencer,male,Investor,"Consumer Goods,Computer Software,Venture Capital & Private Equity,Retail,Real Estate","New York, NY, USA",40.7127753,-74.0059728
+Norge,male,Java Software Developer,"Program Development,Computer Software","Miami, FL, USA",25.7616798,-80.1917902
+Fannie,female,Jr. UI Designer ,"Biotechnology,Information Technology and Services,Design,Computer Software","New York, NY, USA",40.7127753,-74.0059728
+Kenneth,male,Junior Business Analyst,"Recreational Facilities and Services,Computer Software,Information Technology and Services","Brooklyn, NY, USA",40.6781784,-73.9441579
+Isaac,male,Junior Developer,"Program Development,Internet,Computer Software","New York, NY, USA",40.7127753,-74.0059728
+Jerry,male,Junior Software Engineer,"Computer Software,Biotechnology,Electrical/Electronic Manufacturing,Events Services,Information Technology and Services","New York, NY, USA",40.7127753,-74.0059728
+Lexi,female,Laboratory Technician,"Hospital & Health Care,Medical Practice,Biotechnology,Computer Software,Pharmaceuticals","New York, NY, USA",40.7127753,-74.0059728
+Chris,male,Lead Application Developer,"Education Management,Financial Services,Computer Software,Consumer Electronics","New York, NY, USA",40.7127753,-74.0059728
+Michael,male,Lead Software Developer,"Broadcast Media,Marketing and Advertising,Music,Computer Software","New York, NY, USA",40.7127753,-74.0059728
+Rumit,male,Lead Software Engineer,"Marketing and Advertising,Computer Software,Information Technology and Services,Online Media,Sporting Goods","New York, NY, USA",40.7127753,-74.0059728
+Nicole,female,Lead User Experience Designer,"Computer Software,Financial Services,Design","Brooklyn, NY, USA",40.6781784,-73.9441579
+Ben,male,Lead User Experience Researcher,"Computer Software,Financial Services","Los Angeles, CA, USA",34.0522342,-118.2436849
+Pedro,male,Loss Prevention Agent,"Computer Hardware,Computer Software,Consumer Electronics,Health, Wellness and Fitness,Information Technology and Services","Dallas, TX, USA",32.7766642,-96.7969879
+Uriah,male,MANAGER,"Banking,Capital Markets,Commercial Real Estate,Computer Software,Electrical/Electronic Manufacturing","New York, NY, USA",40.7127753,-74.0059728
+Serena,female,MANAGER,"Computer Software,Consumer Services,Internet,Warehousing,Wholesale","Dallas, TX, USA",32.7766642,-96.7969879
+Sachin,male,Machine Learning Researcher,"Computer Software,Research,Health, Wellness and Fitness","Cobble Hill, Brooklyn, NY, USA",40.686536,-73.9962255
+Poonam,female,Manager,"Computer & Network Security,Apparel & Fashion,Banking,Computer Software,Consumer Services","New York, NY 10119, USA",40.750568,-73.993519
+Jason,male,Manager,"Law Practice,Computer Software,Financial Services,Legal Services","Los Angeles, CA, USA",34.0522342,-118.2436849
+Evanescense,female,Manager,"Computer Software,Information Technology and Services","Los Angeles, CA, EUA",34.0522342,-118.2436849
+David,male,Manager,"Food & Beverages,Computer Games,Computer Software,Computer & Network Security,Consumer Electronics","Los Angeles, CA, USA",34.0522342,-118.2436849
+Shafique,male,Manager,"Computer Software,Management Consulting,Information Technology and Services","Dallas, TX, USA",32.7766642,-96.7969879
+Matt,male,Manager - Data Intelligence,"Marketing and Advertising,Computer Software,Consumer Goods,Entertainment,Food & Beverages","Brooklyn, NY, USA",40.6781784,-73.9441579
+Yoel,male,Manager Operations,"Automotive,Computer Software,Construction,Hospital & Health Care,Insurance","Brooklyn, NY, USA",40.6781784,-73.9441579
+Anna,female,Manager of Client Success,"Computer Software,Information Technology and Services,Research,Marketing and Advertising,Mental Health Care","Brooklyn, NY, USA",40.6781784,-73.9441579
+Paul,male,Manager of Platform Engineering,"Computer Software,Biotechnology","New York, NY, USA",40.7127753,-74.0059728
+Neal,male,"Manager, Data & Analytics","Computer Software,Banking,Capital Markets,Financial Services,Information Services","Brooklyn, NY, USA",40.6781784,-73.9441579
+Kirill,male,"Manager, Professional Services","Computer & Network Security,Computer Software","Brooklyn, NY, USA",40.6781784,-73.9441579
+Morgan,female,"Manager, Revenue Planning & Analysis",Computer Software,"Los Angeles, CA, USA",34.0522342,-118.2436849
+Alexander,male,Marketing Account Specialist - Analyst ,"Marketing and Advertising,Computer Software","Venice, Los Angeles, CA, USA",33.9850469,-118.4694832
+Yessine,male,Marketing Associate,"Computer & Network Security,Consumer Electronics,Computer Games,Commercial Real Estate,Computer Software","Los Angeles, Californie, États-Unis",34.0522342,-118.2436849
+Nupur,female,Marketing Coordinator,"Marketing and Advertising,Events Services,Public Relations and Communications,Writing and Editing,Computer Software","New York, NY, USA",40.7127753,-74.0059728
+Nathan,male,Marketing Coordinator,"Marketing and Advertising,Financial Services,Computer Software","New York, NY, USA",40.7127753,-74.0059728
+Isaac,male,Marketing Manager,"Internet,Information Technology and Services,Computer Software","New York, NY, USA",40.7127753,-74.0059728
+Tory,female,Marketing Manager,"Commercial Real Estate,Computer Software,E-Learning,Events Services,Marketing and Advertising","New York, NY, USA",40.7127753,-74.0059728
+Nicole,female,Media and Communications Consultant,"Arts and Crafts,Computer Software,Design,Newspapers,Writing and Editing","New York, NY, USA",40.7127753,-74.0059728
+Abigail,female,Microsoft Applications Consultant,"Computer Software,Management Consulting","New York, NY, USA",40.7127753,-74.0059728
+Angel,male,Microworker,"Market Research,Computer Software","Los Angeles, CA, USA",34.0522342,-118.2436849
+Jay,male,Music Producer,"Music,Computer Games,Computer Software,Consumer Services,Internet","Dallas, TX, USA",32.7766642,-96.7969879
+Charlie,male,Music Producer,"Music,Performing Arts,Arts and Crafts,Computer Software,Fine Art","Los Angeles, CA, USA",34.0522342,-118.2436849
+Vita,male,Musician,"Music,Sports,Computer Software,Entertainment,Human Resources","Brooklyn, NY, USA",40.6781784,-73.9441579
+Rick,male,N/A,"Computer Software,Computer Hardware,Computer Games,Computer Networking,Computer & Network Security","Brooklyn, NY, USA",40.6781784,-73.9441579
+Michael,male,N/A,"Insurance,Computer Software,Gambling & Casinos,Higher Education,Leisure, Travel & Tourism","Woodland Hills, Los Angeles, CA, USA",34.165357,-118.6089752
+Stephanie,female,N/A Homemaker,"Apparel & Fashion,Computer Networking,Computer Software,Food & Beverages,Furniture","Philadelphia, PA, USA",39.9525839,-75.1652215
+Doug,male,"Network engineer II, Test and Turn up ","Computer Software,Consumer Services,Entertainment,Information Technology and Services,Investment Banking","Philadelphia, PA, USA",39.9525839,-75.1652215
+Aaron,male,Neuroscience Research Manager,"Biotechnology,Computer Software,Market Research,Marketing and Advertising,Research","New York, NY, USA",40.7127753,-74.0059728
+Simon,male,None,"Apparel & Fashion,Music,Computer Games,Computer Software,Entertainment","Los Angeles, CA 91303, USA",34.1888416,-118.6060777
+Basil,male,Not employed,"Computer Software,Computer Hardware","Philadelphia, PA, USA",39.9525839,-75.1652215
+Rebecca,female,Office Manager and Internal Events Manager,"Publishing,Telecommunications,Computer Software,Information Technology and Services","New York, NY, USA",40.7127753,-74.0059728
+Kristi,female,OnCore Enterprise Administrator,"Information Technology and Services,Hospital & Health Care,Computer & Network Security,Computer Software,E-Learning","Miami, FL, USA",25.7616798,-80.1917902
+Martin,male,Online Marketing Consultant,"Marketing and Advertising,Information Technology and Services,Computer Software,Computer & Network Security,Computer Hardware","Dallas, TX, USA",32.7766642,-96.7969879
+Xawa,female,Online Media and Marketing Research,"Online Media,Airlines/Aviation,Computer Games,Computer Software,Computer & Network Security","New York, NY, USA",40.7127753,-74.0059728
+Domonique,female,Operations Associate,"Information Technology and Services,Retail,Apparel & Fashion,Computer Software,Consumer Goods","New York, NY, USA",40.7127753,-74.0059728
+Demmi,female,Operations Manager,"Marketing and Advertising,Information Technology and Services,Computer Software,Information Services,Internet","New York, NY, USA",40.7127753,-74.0059728
+Anatasha,female,Operations Manager - Administration,"Human Resources,Banking,Management Consulting,Computer Software,Internet","Miami, FL, USA",25.7616798,-80.1917902
+Benedict,male,Owner,"Computer Networking,Computer Software,Computer Hardware,Computer & Network Security,Entertainment","Los Angeles, CA, USA",34.0522342,-118.2436849
+Sophie,female,Owner,"Computer Software,Design,Apparel & Fashion,Photography,Computer & Network Security","New York, NY, USA",40.7127753,-74.0059728
+Ian,male,Owner,"Computer Software,Computer Games,Consumer Goods,Consumer Electronics","New York, NY, USA",40.7127753,-74.0059728
+Okwoseh,male,Owner,"Automotive,Computer Software,Logistics and Supply Chain,Management Consulting","New York, NY, USA",40.7127753,-74.0059728
+Thomas,male,Owner,"Computer Software,Retail,Logistics and Supply Chain,Executive Office,Entertainment","Los Angeles, CA, USA",34.0522342,-118.2436849
+Joe,male,Owner/Founder,"Construction,Computer Software,Computer Hardware,Computer & Network Security,Computer Networking","Philadelphia, PA, USA",39.9525839,-75.1652215
+Jenell,female,Owner/Founder,"Apparel & Fashion,Computer Software,Financial Services,Environmental Services,Retail","Philadelphia, PA, USA",39.9525839,-75.1652215
+Bradley,male,Owner/Founder,"Computer & Network Security,Computer Hardware,Computer Software,Computer Games,Information Technology and Services","Brooklyn, NY, USA",40.6781784,-73.9441579
+Matt,male,Owner/Founder,"Online Media,Music,Entertainment,Computer Software,Marketing and Advertising","Los Angeles, CA, USA",34.0522342,-118.2436849
+Petr,male,Owner/Personal trainer & Nutritionist,"Health, Wellness and Fitness,Computer Software,Financial Services","New York, NY, USA",40.7127753,-74.0059728
+Thu,female,PR Manager,"Medical Practice,Computer Games,Apparel & Fashion,Computer Software,Entertainment","Los Angeles, CA, USA",34.0522342,-118.2436849
+Yassel,male,PaaS Developer,"Banking,Capital Markets,Computer & Network Security,Computer Software,Financial Services","Miami, FL, USA",25.7616798,-80.1917902
+Andrew,male,Partner,"Computer Software,Internet,Online Media,Professional Training & Coaching,Staffing and Recruiting","Dallas, TX, USA",32.7766642,-96.7969879
+Meg,female,Personal Assistant,"Computer Software,Design,Entertainment,Internet","New York, NY, USA",40.7127753,-74.0059728
+Brendan,male,Personal Development Blogger & Coach,"Computer Software,Financial Services,Professional Training & Coaching","Brooklyn, NY, USA",40.6781784,-73.9441579
+Mateus,male,"Photographer, Owner","Computer Games,Computer Software,Photography,Online Media,Marketing and Advertising","New York, NY, USA",40.7127753,-74.0059728
+James,male,President,"Broadcast Media,Computer Software,E-Learning,Internet,Online Media","Los Angeles, CA, USA",34.0522342,-118.2436849
+Anders,male,President & Co-Founder,"Computer Games,Computer Software,Fund-Raising,Graphic Design,Non-Profit Organization Management","Los Angeles, CA, USA",34.0522342,-118.2436849
+Jason,male,Principal,"Computer Software,Internet,Consumer Goods,Consumer Services,Venture Capital & Private Equity","New York, NY, USA",40.7127753,-74.0059728
+Olga,female,Principal,"Information Technology and Services,Management Consulting,Health, Wellness and Fitness,Computer Software","New York, NY, USA",40.7127753,-74.0059728
+Flavio,male,Principal Engineer,"Information Technology and Services,Broadcast Media,Online Media,Computer Software","Brooklyn, NY, USA",40.6781784,-73.9441579
+Scott,male,Principal Systems Consultant,"Insurance,Computer Software,Information Technology and Services","Philadelphia, PA, USA",39.9525839,-75.1652215
+Roel,male,Principal User Experience Designer,"Design,Computer Software","Los Angeles, CA, USA",34.0522342,-118.2436849
+Michael,male,Product & UX Intern,"E-Learning,Consumer Goods,Design,Restaurants,Computer Software","New York, NY, USA",40.7127753,-74.0059728
+Marie,female,Product Design Intern,"Information Technology and Services,Design,Graphic Design,Computer Software","Los Angeles, CA, USA",34.0522342,-118.2436849
+Soyeon V.,female,Product Development,"Apparel & Fashion,Computer Software,Design,Consumer Goods,Logistics and Supply Chain","New York, NY, USA",40.7127753,-74.0059728
+Leonor,female,Product Lead | Creative Director,"Information Technology and Services,Design,Computer Software,Internet,Management Consulting","New York, NY, USA",40.7127753,-74.0059728
+Evan,male,Product Manager,"Internet,Consumer Services,Computer Software,Real Estate,Information Technology and Services","New York, NY, USA",40.7127753,-74.0059728
+Emma,female,Product Manager,"Computer Software,Consumer Goods,Internet,Consumer Services,Arts and Crafts","New York, NY, USA",40.7127753,-74.0059728
+Tim,male,Product Manager,"Retail,Research,Photography,Design,Computer Software","Manhattan, New York, NY, USA",40.7830603,-73.9712488
+Liza,female,Product Manager,"Information Technology and Services,Primary/Secondary Education,Computer Software,Consumer Goods,Political Organization","Brooklyn, NY, USA",40.6781784,-73.9441579
+Elizabeth,female,Product Manager,"Computer Software,Information Technology and Services,Market Research,Apparel & Fashion,Leisure, Travel & Tourism","Brooklyn, NY, USA",40.6781784,-73.9441579
+Sun,male,Product Manager,"Information Technology and Services,Sports,Computer Software,Internet","New York, NY, USA",40.7127753,-74.0059728
+Kristi,female,Product Manager,"Information Technology and Services,Computer Software","Sherman Oaks, Los Angeles, CA, USA",34.1489719,-118.451357
+Anh P.,female,Product Manager,"Information Technology and Services,Computer Software,Logistics and Supply Chain,Internet","New York, NY, USA",40.7127753,-74.0059728
+Rickey,male,Product Manager,"Information Technology and Services,Computer Software,Human Resources","Los Angeles, CA, USA",34.0522342,-118.2436849
+Hua Szu,female,Product Manager,"Commercial Real Estate,Computer Software,Insurance,Real Estate,Market Research","New York, NY, USA",40.7127753,-74.0059728
+Uri,male,Product Manager,"Computer Software,Marketing and Advertising","Brooklyn, NY, USA",40.6781784,-73.9441579
+helen,female,Product Manager,"Hospitality,Computer Software,Retail,Recreational Facilities and Services,Program Development","Los Angeles, CA, USA",34.0522342,-118.2436849
+Emad,male,Product Manager - Enterprise,"Computer Software,E-Learning,Design,Automotive,Education Management","Los Angeles, CA, USA",34.0522342,-118.2436849
+Elizabeth,female,Product Manager - Internal Tools,"Apparel & Fashion,Information Technology and Services,Retail,Computer Software","New York, NY, USA",40.7127753,-74.0059728
+Sean,male,Product Marketing Manager,"Marketing and Advertising,Computer Software","Woodland Hills, Los Angeles, CA, USA",34.165357,-118.6089752
+Benjamin,male,Product Marketing Manager,"Computer Hardware,Computer Software,Internet,Marketing and Advertising,Online Media","Brooklyn, NY, USA",40.6781784,-73.9441579
+Joanna,female,Product Marketing Manager,"Computer Software,Sports,Marketing and Advertising","New York, NY, USA",40.7127753,-74.0059728
+Samantha,female,Product Marketing Manager,"Music,Computer Software,Marketing and Advertising","Brooklyn, NY, USA",40.6781784,-73.9441579
+Daniel,male,Product Marketing Manager (technical),"Consumer Electronics,Internet,Computer Software","Los Angeles, CA, USA",34.0522342,-118.2436849
+Donna ,female,"Product, UX Research & Design","Computer Software,Computer Hardware,Consumer Electronics,Computer Networking,Design","New York, NY 10036, USA",40.75695,-73.9905
+Andrew,male,Programmer,"Computer Software,Computer & Network Security,Computer Hardware,Writing and Editing,Music","Philadelphia, PA, USA",39.9525839,-75.1652215
+Liesel,female,Project Management Intern,Computer Software,"New York, NY, USA",40.7127753,-74.0059728
+Blake,male,Project Manager,"Computer Software,Management Consulting,Financial Services,Information Technology and Services,Legal Services","Dallas, TX, USA",32.7766642,-96.7969879
+Allison,female,Project Manager,"Apparel & Fashion,Marketing and Advertising,Media Production,Computer Software,Consumer Goods","New York, NY, USA",40.7127753,-74.0059728
+Francesco,male,Project Manager,"Computer Software,Financial Services,Hospital & Health Care,Information Technology and Services,Writing and Editing","Philadelphia, PA, USA",39.9525839,-75.1652215
+Wesley,male,Project/Account Manager & Audio/Video Editor,"Apparel & Fashion,Broadcast Media,Computer Software,Entertainment,Gambling & Casinos","Dallas, GA, USA",33.9244531,-84.8413056
+Yoanna,female,QA Analyst,"Information Technology and Services,Computer Software,Consumer Goods,Events Services,Hospitality","New York, NY, USA",40.7127753,-74.0059728
+Soujanya,female,QA Engineer,Computer Software,"Dallas, TX, USA",32.7766642,-96.7969879
+Matt,male,Range Guide/ Range Officer,"Computer Games,Graphic Design,Computer Software,Entertainment,Fishery","Dallas, TX, USA",32.7766642,-96.7969879
+Shelby,female,"Regional Sales Director, DataSite","Banking,Capital Markets,Computer & Network Security,Computer Software,Information Technology and Services","New York, NY, USA",40.7127753,-74.0059728
+Mike,male,Research Assistant,"Computer Software,Research,Higher Education","Dallas, TX, USA",32.7766642,-96.7969879
+Ngoc,male,Research Assistant,"Computer Software,Higher Education","Dallas, TX, USA",32.7766642,-96.7969879
+Jenna,female,Research Assistant,"Higher Education,Computer Software,Health, Wellness and Fitness,Media Production,Non-Profit Organization Management","New York, NY, USA",40.7127753,-74.0059728
+Lisa,female,Research Associate,"Biotechnology,Computer Software,Non-Profit Organization Management,Research,Hospital & Health Care","New York, NY, USA",40.7127753,-74.0059728
+Sam,male,"Research Scholar, Computational Oncology","Biotechnology,Computer Software,Pharmaceuticals","New York, NY, USA",40.7127753,-74.0059728
+Pierre,male,Research Scientist,"Computer Software,Research,Education Management","New York, NY, USA",40.7127753,-74.0059728
+Xavier,male,Researcher,"Computer Software,Consumer Goods,E-Learning,Music,Research","Philadelphia, PA, USA",39.9525839,-75.1652215
+Jace,male,Researcher PhD Student,"Medical Practice,Consumer Electronics,Computer Hardware,Computer Software,Graphic Design","Dallas, TX, USA",32.7766642,-96.7969879
+Annabel,female,Sales Assistant,"Computer Software,Online Media,Marketing and Advertising","New York, NY, USA",40.7127753,-74.0059728
+Jade,male,Sales Associate,"Computer Software,Hospital & Health Care,Environmental Services,Mental Health Care","New York, NY, USA",40.7127753,-74.0059728
+Rohan,male,Sales Coordinator,"Hospitality,Airlines/Aviation,Computer Software,Wine and Spirits,Supermarkets","Philadelphia, PA, USA",39.9525839,-75.1652215
+Jordan,male,Sales Coordinator & Salesforce Adminstrator ,"Automotive,Oil & Energy,Business Supplies and Equipment,Computer Software,Information Services","Dallas, TX, USA",32.7766642,-96.7969879
+Cody,male,Sales Director,"Information Technology and Services,Online Media,Internet,Computer Software","New York, NY, USA",40.7127753,-74.0059728
+Kevin,male,Sales Engineer,"Computer Software,Food & Beverages,Research,Program Development,Online Media","New York, NY, USA",40.7127753,-74.0059728
+Elyse,female,Sales Manager,"Real Estate,Internet,Computer Software","Philadelphia, PA, USA",39.9525839,-75.1652215
+Indranil,male,Sales and Operations,"Computer Software,Fund-Raising,Human Resources,Internet","New York, NY, USA",40.7127753,-74.0059728
+Maryam,female,Scientist,"Biotechnology,Human Resources,Computer Software,Research","New York, NY, USA",40.7127753,-74.0059728
+Sowmya,female,Scrum Master And Development Team Lead,"Computer Software,Public Relations and Communications,Information Technology and Services,Program Development,Non-Profit Organization Management","Dallas, TX, USA",32.7766642,-96.7969879
+Marisela,female,Self Technician,"Computer Software,Computer Networking,Computer & Network Security,Commercial Real Estate,Civil Engineering","Miami, Florida, EE. UU.",25.7616798,-80.1917902
+Jenna,female,Senior Account Executive,"Public Relations and Communications,Computer & Network Security,Information Technology and Services,Computer Software","Philadelphia, PA, USA",39.9525839,-75.1652215
+Victoria,female,Senior Account Manager,"Information Technology and Services,Computer Software,Marketing and Advertising,Internet","New York, NY, USA",40.7127753,-74.0059728
+Tomin,male,Senior Associate Consultant,"Computer Software,Information Technology and Services","Dallas, TX, USA",32.7766642,-96.7969879
+Alex,male,Senior Computational Biologist,"Biotechnology,Computer Software,Research","New York, NY, USA",40.7127753,-74.0059728
+Jennifer,female,Senior Data Associate,"Computer Software,Internet,Market Research,Venture Capital & Private Equity","New York, NY, USA",40.7127753,-74.0059728
+Maxwell,male,Senior Engineer,"Information Technology and Services,Oil & Energy,Sporting Goods,Sports,Computer Software","New York, NY, USA",40.7127753,-74.0059728
+Amir-abbas,male,Senior Front-end Developer,"Computer Games,Computer Software,Graphic Design,Information Technology and Services,Translation and Localization","New York, NY, USA",40.7127753,-74.0059728
+LIANG,male,Senior Internal Auditor,"Education Management,Computer Software,Financial Services,Chemicals,Consumer Goods","New York, NY, USA",40.7127753,-74.0059728
+Rachel,female,"Senior Manager, Inbound Marketing","Information Technology and Services,Computer Software","New York, NY, USA",40.7127753,-74.0059728
+Jenna,female,"Senior Manager, Salesforce Developer","Non-Profit Organization Management,Design,Primary/Secondary Education,Program Development,Computer Software","New York, NY, USA",40.7127753,-74.0059728
+Vincent,male,Senior Mobile Developer,Computer Software,"New York, NY, USA",40.7127753,-74.0059728
+Shirley,female,Senior Product Designer,"Computer Software,Design","New York, NY, USA",40.7127753,-74.0059728
+Jonathan,male,Senior Product Marketer,"Information Technology and Services,Computer Software,Consumer Services","New York, NY, USA",40.7127753,-74.0059728
+Jaques,male,Senior Software Architect,"Computer & Network Security,Computer Software,Financial Services","New York, NY, USA",40.7127753,-74.0059728
+Veronica,female,Senior Software Developer,"Computer Software,Information Technology and Services","Philadelphia, PA, USA",39.9525839,-75.1652215
+Shahar,male,Senior Software Engineer,"Computer Software,Defense & Space,Computer Games","Philadelphia, PA, USA",39.9525839,-75.1652215
+Gerald,male,Senior Software Engineer,"Computer Software,Airlines/Aviation","Dallas, TX, USA",32.7766642,-96.7969879
+Simbarashe,male,Senior Solutions Engineer,"Computer Software,Information Technology and Services","Dallas, TX, USA",32.7766642,-96.7969879
+Priscilla,female,Senior Strategist,"Computer & Network Security,Computer Software,Marketing and Advertising,Market Research,Public Relations and Communications","New York, NY, USA",40.7127753,-74.0059728
+Adam,male,"Senior UI Design Lead - Interactive Products, CIB","Banking,Consumer Electronics,Computer Software,Design,Entertainment","New York, NY, USA",40.7127753,-74.0059728
+Dan,male,Signals intelligence analyst,"Computer & Network Security,Computer Games,Computer Software,Computer Hardware,Military","New York, NY, USA",40.7127753,-74.0059728
+Taylor,male,Site Reliability Engineer,"Computer Games,Computer Hardware,Computer Software,Information Technology and Services,Wireless","Philadelphia, PA, USA",39.9525839,-75.1652215
+Brett,male,Software Consultant,"Computer Software,Internet","New York, NY, USA",40.7127753,-74.0059728
+Alisha,female,Software Developer,"Computer Software,Hospital & Health Care","New York, NY, USA",40.7127753,-74.0059728
+Brady,male,Software Developer,"Computer Software,Information Technology and Services","Dallas, TX, USA",32.7766642,-96.7969879
+Dayo,female,Software Developer,Computer Software,"New York, NY, USA",40.7127753,-74.0059728
+Ramon,male,Software Developer,"Computer Software,Automotive,Sports,Motion Pictures and Film,Design","Miami, FL, USA",25.7616798,-80.1917902
+Priyanka,female,Software Developer,"Information Technology and Services,Computer Software,Music","New York, NY, USA",40.7127753,-74.0059728
+Dovid,male,Software Developer,"Computer Software,Computer Networking,Telecommunications","Miami, FL, USA",25.7616798,-80.1917902
+Sonu,male,Software Developer,Computer Software,"Philadelphia, PA, USA",39.9525839,-75.1652215
+Molly,female,Software Developer,"Computer Software,Information Technology and Services,Financial Services,Banking","Dallas, TX, USA",32.7766642,-96.7969879
+Abdullah,male,Software Developer,"Financial Services,Computer Software,Utilities,Banking","New York, NY, USA",40.7127753,-74.0059728
+Cassia,female,Software Developer Intern,"Computer & Network Security,Computer Software,Computer Hardware","Philadelphia, PA, USA",39.9525839,-75.1652215
+Christina,female,Software Development and Consulting,Computer Software,"New York, NY, USA",40.7127753,-74.0059728
+Raghav,male,Software Engineer,"Information Technology and Services,Aviation & Aerospace,Computer Software,Computer & Network Security,Computer Networking","Dallas, TX, USA",32.7766642,-96.7969879
+Skip,male,Software Engineer,Computer Software,"New York, NY, USA",40.7127753,-74.0059728
+Andrew,male,Software Engineer,"Computer Software,Information Technology and Services","New York, NY, USA",40.7127753,-74.0059728
+Leo,male,Software Engineer,"Computer Software,Photography","New York, NY, USA",40.7127753,-74.0059728
+Humza,male,Software Engineer,"Computer & Network Security,Computer Software,Program Development,Computer Hardware,Computer Networking","New York, NY, USA",40.7127753,-74.0059728
+Jorge,male,Software Engineer,Computer Software,"Miami, FL, USA",25.7616798,-80.1917902
+Jason,male,Software Engineer,"Computer Software,Computer & Network Security,Information Services","New York, NY, USA",40.7127753,-74.0059728
+Kerran,male,Software Engineer,"Computer Software,Financial Services,Information Technology and Services","New York, NY, USA",40.7127753,-74.0059728
+Steve,male,Software Engineer,"Internet,Computer Software,Design,Music,Information Technology and Services","New York, NY, USA",40.7127753,-74.0059728
+Moshe,male,Software Engineer,"Broadcast Media,Computer Software","New York, NY, USA",40.7127753,-74.0059728
+Arvind,male,Software Engineer,Computer Software,"New York, NY, USA",40.7127753,-74.0059728
+Aaron,male,Software Engineer,Computer Software,"New York, NY, USA",40.7127753,-74.0059728
+Eytan,male,Software Engineer,"Computer Software,Consumer Services,Information Technology and Services,Internet","New York, NY, USA",40.7127753,-74.0059728
+Jonathan,male,Software Engineer,Computer Software,"New York, NY, USA",40.7127753,-74.0059728
+Anmol,male,Software Engineer,"Computer Software,Information Technology and Services,Computer & Network Security","New York, NY, USA",40.7127753,-74.0059728
+Rhys,male,Software Engineer,"Information Technology and Services,Computer Software","New York, NY, USA",40.7127753,-74.0059728
+David,male,Software Engineer,"Computer & Network Security,Computer Software,Computer Hardware,Information Technology and Services","New York, NY, USA",40.7127753,-74.0059728
+Steve,male,Software Engineer,Computer Software,"Philadelphia, PA, USA",39.9525839,-75.1652215
+Alicia,female,Software Engineer,Computer Software,"New York, NY, USA",40.7127753,-74.0059728
+Kristy,female,Software Engineer,"Biotechnology,Computer Software,Computer Networking,Information Technology and Services,Non-Profit Organization Management","New York, NY, USA",40.7127753,-74.0059728
+Ethan,male,Software Engineer,"Computer Software,Information Technology and Services","New York, NY, USA",40.7127753,-74.0059728
+Steven,male,Software Engineer,"Computer Software,Financial Services","New York, NY, USA",40.7127753,-74.0059728
+Darrell,male,Software Engineer,"Computer Software,Information Technology and Services","Philadelphia, PA, USA",39.9525839,-75.1652215
+Teyim,male,Software Engineer,"Computer & Network Security,Information Technology and Services,Computer Software,Computer Hardware,E-Learning","New York, IA 50238, USA",40.8516701,-93.2599318
+Jordan M.,male,Software Engineer,"Program Development,Computer Software,Professional Training & Coaching","Dallas, TX, USA",32.7766642,-96.7969879
+Jagpreet,male,Software Engineer,"Computer Software,Computer Games,Computer & Network Security,Graphic Design,Information Technology and Services","New York, NY, USA",40.7127753,-74.0059728
+Montana,female,Software Engineer,"Computer Software,Consumer Services,Entertainment,Health, Wellness and Fitness,Motion Pictures and Film","Philadelphia, PA, USA",39.9525839,-75.1652215
+Yura,female,Software Engineer,"Program Development,Internet,Computer Software,Arts and Crafts","New York, NY, USA",40.7127753,-74.0059728
+Sinjihn,male,Software Engineer,"Information Technology and Services,Computer Software,E-Learning,Design,Writing and Editing","New York, NY, USA",40.7127753,-74.0059728
+Ugene,male,Software Engineer,"Computer Software,Information Technology and Services,Internet,Motion Pictures and Film,Sports","Philadelphia, PA, USA",39.9525839,-75.1652215
+Akshay,male,Software Engineer,"Retail,Computer Software,Information Technology and Services","Dallas, TX, USA",32.7766642,-96.7969879
+Omid,male,Software Engineer,"Computer Software,Computer & Network Security","New York, NY, USA",40.7127753,-74.0059728
+Madeline,female,Software Engineer,"Computer Software,Food & Beverages,Graphic Design,Motion Pictures and Film,Higher Education","New York, NY, USA",40.7127753,-74.0059728
+Maria,female,Software Engineer Contractor,Computer Software,"Philadelphia, PA, USA",39.9525839,-75.1652215
+Prath,male,Software Programmer,Computer Software,"Miami, FL, USA",25.7616798,-80.1917902
+Katsiaryna,female,Software QA Engineer,"Computer Software,Internet,Information Technology and Services","New York, NY, USA",40.7127753,-74.0059728
+Ankith Gupta,male,Solutions Architect Apprentice,"Computer Software,Information Technology and Services,Computer Networking,Computer Hardware,Information Services","Dallas, TX, USA",32.7766642,-96.7969879
+Edmond (Jun Wen),male,Sortation Associate,"Computer Software,Information Technology and Services,Computer Games,Computer Networking,Computer Hardware","New York, NY, USA",40.7127753,-74.0059728
+Philip (Peisen),male,Sr Software Engineer,Computer Software,"New York, NY, USA",40.7127753,-74.0059728
+Ashley,female,Sr. Customer Success Manager,"Computer Software,Design,Internet,Online Media,Information Technology and Services","Dallas, TX, USA",32.7766642,-96.7969879
+Dewayne,male,"Sr. Manager, Data Science & Analytics","Computer & Network Security,Computer Software,Biotechnology","New York, NY, USA",40.7127753,-74.0059728
+Mijail,male,Sr. Software Engineer,"Computer Software,Computer Hardware,Airlines/Aviation,Automotive","Miami, FL, USA",25.7616798,-80.1917902
+Sandy,female,Staff Project Manager,"Computer Software,Consumer Goods,Cosmetics,Information Technology and Services,Program Development","New York, NY, USA",40.7127753,-74.0059728
+Raymond,male,Store Associate,"Computer Software,Health, Wellness and Fitness,Hospital & Health Care,Insurance,Internet","Philadelphia, PA, USA",39.9525839,-75.1652215
+William,male,Student,"Computer Software,Computer Hardware,Higher Education,Think Tanks,E-Learning","New York, NY, USA",40.7127753,-74.0059728
+Shainil,male,Student,"Computer Games,Computer Software,Financial Services,Insurance,Marketing and Advertising","Manhattan, New York, NY, USA",40.7830603,-73.9712488
+Sara,female,Student,"Information Technology and Services,Computer Software,Internet,Logistics and Supply Chain,Computer & Network Security","New York, NY, USA",40.7127753,-74.0059728
+Emilio,male,Student,"Computer Software,Hospital & Health Care,Biotechnology","New York, NY, USA",40.7127753,-74.0059728
+Stefano,male,Student,"Alternative Medicine,Medical Practice,Information Technology and Services,Computer Software,Medical Devices","Miami, FL, USA",25.7616798,-80.1917902
+David,male,Student,"Health, Wellness and Fitness,Consumer Electronics,Computer Software,Arts and Crafts,Consumer Services","Philadelphia, PA 19107, USA",39.9559288,-75.1574567
+Jude,male,Student,"Broadcast Media,Computer Games,Computer Software,Consumer Electronics,Entertainment","Miami, FL, USA",25.7616798,-80.1917902
+Youssef,male,Student,"Computer Games,Computer Software,Online Media","New York, NY, USA",40.7127753,-74.0059728
+Noah,male,Student,"Computer Games,Computer Hardware,Computer Software,Information Technology and Services,Consumer Electronics","Miami, FL, USA",25.7616798,-80.1917902
+Richard,male,Student,Computer Software,"New York, NY, USA",40.7127753,-74.0059728
+Pubg,male,Student,"Information Technology and Services,Consumer Goods,Computer Software,Computer Games,Apparel & Fashion","New York, NY, USA",40.7127753,-74.0059728
+Nhat,male,Student,"Arts and Crafts,Computer Software,Computer & Network Security,Graphic Design,Internet","Philadelphia, PA, USA",39.9525839,-75.1652215
+James,male,Student,"Computer Software,Photography,Financial Services,Management Consulting,Airlines/Aviation","New York, NY, USA",40.7127753,-74.0059728
+Chinmay,male,Student,"Computer Software,Research,Music","New York, NY, USA",40.7127753,-74.0059728
+Jackie,female,Student Worker,Computer Software,"New York, NY, USA",40.7127753,-74.0059728
+Declan,male,"Student, Freelancer","Computer Games,Computer Software,Computer Networking,Internet,Computer & Network Security","New York, NY, USA",40.7127753,-74.0059728
+Janna,female,Student/self employed,"Computer Networking,Computer & Network Security,Computer Software,Computer Hardware,Internet","Dallas, TX, USA",32.7766642,-96.7969879
+Jason,male,System Administrator Team Lead,"Leisure, Travel & Tourism,Computer & Network Security,Computer Software,Entertainment","Miami, FL, USA",25.7616798,-80.1917902
+Farhan Tawsif,male,System Engineer / Analyst,"Computer Software,Computer & Network Security,Higher Education,Primary/Secondary Education,Research","New York, NY, USA",40.7127753,-74.0059728
+Jason,male,Systems Administrator,"Computer Networking,Computer Software,Information Services,Information Technology and Services,Computer Hardware","New York, NY, USA",40.7127753,-74.0059728
+Elizabeth,female,Systems Analyst,"Hospital & Health Care,Mental Health Care,Computer Software","New York, NY, USA",40.7127753,-74.0059728
+Natalie,female,Talent Acquisition Manager,"Arts and Crafts,Human Resources,Staffing and Recruiting,Computer Software,Performing Arts","New York, NY, USA",40.7127753,-74.0059728
+Han,male,Tech Lead - Enterprise solution platform,"Financial Services,Computer & Network Security,Computer Software,Information Technology and Services","New York, NY, USA",40.7127753,-74.0059728
+Jules,female,Technical Designer,"Motion Pictures and Film,Apparel & Fashion,Design,Graphic Design,Computer Software","New York, NY, USA",40.7127753,-74.0059728
+Nosaj,male,Technical Support Consultant,"Consumer Electronics,Computer Games,Computer Hardware,Computer Software,Entertainment","Miami, FL, USA",25.7616798,-80.1917902
+Kendra,female,Technician,"International Affairs,Internet,Computer Hardware,Computer Software,Consumer Electronics","New York, NY, USA",40.7127753,-74.0059728
+Jamie,female,Technology Intern,"Computer Software,Higher Education,Performing Arts,Telecommunications","Philadelphia, PA, USA",39.9525839,-75.1652215
+Diarmaid,male,Technology Liaison,"Information Technology and Services,Computer Software","Manhattan, New York, NY, USA",40.7830603,-73.9712488
+Ian,male,Treasury Summer Intern,"Information Technology and Services,Banking,Computer Software,Computer Hardware,Financial Services","New York, NY, USA",40.7127753,-74.0059728
+Sung,male,Tutor,"Computer & Network Security,Computer Software,Consumer Services,Graphic Design,Information Technology and Services","Miami, FL, USA",25.7616798,-80.1917902
+Anjaneya,male,UI/UX Design Intern,"Computer Games,Computer Software,Consumer Electronics,Consumer Goods,Design","Dallas, TX, USA",32.7766642,-96.7969879
+Dan,male,UX Designer,"Information Technology and Services,Computer Software,Design,Graphic Design,Entertainment","Miami, FL, USA",25.7616798,-80.1917902
+Erika,female,User Experience Design Lead,"Consumer Goods,Consumer Services,Design,Computer Software,Graphic Design","New York County, New York, NY, USA",40.7830603,-73.9712488
+Rebecca,female,User Experience Designer,"Design,Graphic Design,Computer Software,Consumer Goods,Consumer Services","Manhattan, New York, NY, USA",40.7830603,-73.9712488
+Abby,male,"VP, Data Science","Computer Software,Information Technology and Services,Financial Services,Insurance","New York, NY, USA",40.7127753,-74.0059728
+Prateek,male,Vice President,"Information Technology and Services,Computer Software,Apparel & Fashion,Automotive,Industrial Automation","New York, NY, USA",40.7127753,-74.0059728
+Brian,male,Vice President of Revenue Operations,"Computer & Network Security,Computer Software,Consumer Electronics,Consumer Goods,Consumer Services","Dallas, TX, USA",32.7766642,-96.7969879
+Jonathan,male,"Vice President, Client Services","Hospital & Health Care,Pharmaceuticals,Marketing and Advertising,Information Technology and Services,Computer Software","New York Times Bldg, 620 8th Ave, New York, NY 10018, USA",40.756098,-73.9901882
+Tirth,male,"Vice President, Investor Relations","Biotechnology,Pharmaceuticals,Capital Markets,Computer Software,Financial Services","New York, NY, USA",40.7127753,-74.0059728
+Stunner,male,Video Editor,"Computer Games,Computer Networking,Computer & Network Security,Computer Software,Information Technology and Services","Dallas, TX, USA",32.7766642,-96.7969879
+James H.,male,Vising Assistant Professor,"Hospital & Health Care,Computer Software,Research","New York, NY, USA",40.7127753,-74.0059728
+Ieshaan,male,Visual Designer - Front End Dev,"Animation,Design,Computer Games,Computer Software,Online Media","New York, NY, USA",40.7127753,-74.0059728
+Meghan,female,Walker,Computer Software,"New York, NY, USA",40.7127753,-74.0059728
+Montgomery,male,Web Developer,"Computer Software,Information Technology and Services,Libraries","New York, NY, USA",40.7127753,-74.0059728
+Claudia,female,Web Developer,"Computer Software,Graphic Design,Information Technology and Services,Internet","Dallas, Texas, EE. UU.",32.7766642,-96.7969879
+Nicholas,male,Web Developer,"Computer Software,Arts and Crafts,Music,Performing Arts","New York, NY, USA",40.7127753,-74.0059728
+Kazmuir,female,Web Developer Intern,"Computer Games,Computer Software,Graphic Design,Information Technology and Services,Media Production","Philadelphia, PA, USA",39.9525839,-75.1652215
+Felix,male,Web Developer/Graphic Designer,"Information Services,Computer Software,Financial Services,Graphic Design,Information Technology and Services","New York, NY, USA",40.7127753,-74.0059728
+Alejandro,male,Web and Email Specialist,"Computer Software,Computer & Network Security,Health, Wellness and Fitness,Internet,Marketing and Advertising","Miami, FL, USA",25.7616798,-80.1917902
+Tanya,female,"Website Design Expert, Content Marketing Strategist","Computer Software,Computer Networking,Design","Dallas, TX, USA",32.7766642,-96.7969879
+Catherine,female,Writer and Editor,"Publishing,Computer Software,Writing and Editing,Performing Arts","New York, NY, USA",40.7127753,-74.0059728
+Kelvin,male,application developer,"Banking,Computer & Network Security,Computer Hardware,Computer Software","New York, NY, USA",40.7127753,-74.0059728
+Lisa,female,iOS Development Fellowship,Computer Software,"New York, NY, USA",40.7127753,-74.0059728
+Praneet,male,iOS Engineer,"Computer Software,Computer Games,Consumer Electronics,Consumer Goods,E-Learning","Dallas, TX, USA",32.7766642,-96.7969879
+Gustavo,male,manager,"Internet,Computer Software,Marketing and Advertising,Sports,E-Learning","Miami, FL, USA",25.7616798,-80.1917902
+Seyi,male,n/a student,"Computer & Network Security,Computer Software,Information Technology and Services,Consumer Electronics,Marketing and Advertising","Dallas, TX, USA",32.7766642,-96.7969879
+Sara,female,Analytics Consultant,"Biotechnology,Computer Software,Information Technology and Services,Management Consulting,Pharmaceuticals","Washington, DC, USA",38.9071923,-77.0368707
+Anika,female,Applications Developer,"Computer Software,Defense & Space","Washington, DC, USA",38.9071923,-77.0368707
+Jordan,male,Associate,"Computer Software,Information Technology and Services,Higher Education,Civic & Social Organization,E-Learning","Washington, DC, USA",38.9071923,-77.0368707
+Tricia,female,Associate Consultant,"Computer Software,Internet,Human Resources","Washington, DC, USA",38.9071923,-77.0368707
+Karen,female,Au pair,"Graphic Design,Animation,Computer Games,Computer Software,Education Management","Washington, DC, USA",38.9071923,-77.0368707
+Sasha,female,Central Operations Manager,"Transportation/Trucking/Railroad,Logistics and Supply Chain,Information Technology and Services,Business Supplies and Equipment,Computer Software","Washington, DC, USA",38.9071923,-77.0368707
+Cydney,female,Corporate Advocacy Intern,"Marketing and Advertising,Computer Software,Fund-Raising","Washington, DC, USA",38.9071923,-77.0368707
+Casey,female,Data Entry Clerk,Computer Software,"Washington, PA 15301, USA",40.17396,-80.2461714
+Jake,male,Data Scientist,"Computer Software,Information Technology and Services,Internet","Washington, DC, USA",38.9071923,-77.0368707
+Ibrahim,male,Data Scientist,"Computer Software,Financial Services,Information Technology and Services,Logistics and Supply Chain,Management Consulting","Washington, DC, USA",38.9071923,-77.0368707
+Danielle,female,Digital Engagement Strategist,"Marketing and Advertising,Computer Software,Government Relations,Government Administration,Internet","Washington, DC, USA",38.9071923,-77.0368707
+sendawula,male,Engeneer,"Banking,Commercial Real Estate,Hospital & Health Care,Insurance,Computer Software","Washington, DC, USA",38.9071923,-77.0368707
+Kilof,male,Front End Supervisor,"Computer Hardware,Computer Games,Computer Software,Research,Renewables & Environment","Washington, DC, USA",38.9071923,-77.0368707
+Nataly,female,Helpdesk Technician,"Information Technology and Services,Computer & Network Security,Computer Networking,Computer Software,Consumer Electronics","Washington, DC, USA",38.9071923,-77.0368707
+Jasmine,female,IT specialist,"Apparel & Fashion,Computer Hardware,Computer Software,Cosmetics,Information Technology and Services","Washington, DC, USA",38.9071923,-77.0368707
+John,male,Information Technology Specialist,"Information Technology and Services,Government Administration,Computer Software","Washington, DC, USA",38.9071923,-77.0368707
+Jose,male,Ingeniero de sistemas,"Animation,Computer & Network Security,Computer Software,Events Services,Internet","Washington, DC, USA",38.9071923,-77.0368707
+Laureen,female,Lead Android Developer,"Aviation & Aerospace,Computer Software,Environmental Services,Fishery,Information Technology and Services","Washington, DC, USA",38.9071923,-77.0368707
+Megan,female,Manager of Digital Strategy & Fundraising ,"Non-Profit Organization Management,Public Relations and Communications,Marketing and Advertising,Fund-Raising,Computer Software","Washington, DC, USA",38.9071923,-77.0368707
+Dan,male,Organizing Director,"Political Organization,Computer Software","Washington, DC, USA",38.9071923,-77.0368707
+Jason,male,Product Marketing Manager,"Information Technology and Services,Marketing and Advertising,Computer Software,Information Services,Government Administration","Washington, DC, USA",38.9071923,-77.0368707
+Adam,male,Product Marketing Manager,"Computer Software,Translation and Localization","Washington, DC, USA",38.9071923,-77.0368707
+Lieza,female,Research Assistant,"Research,Computer Software,Biotechnology","Washington, DC, USA",38.9071923,-77.0368707
+Kenneth,male,Self Employed,Computer Software,"Washington, NJ 07882, USA",40.7584326,-74.9793378
+Nick,male,Senior Product Manager,Computer Software,"Washington, DC, USA",38.9071923,-77.0368707
+Brendan,male,Senior Product Security Engineer,"Computer Software,Computer & Network Security,Information Technology and Services,Financial Services","Washington, DC, USA",38.9071923,-77.0368707
+Jennifer,female,Senior Solution Architect,"Computer Games,Computer Networking,Computer Software,Computer Hardware,Computer & Network Security","Washington, DC, USA",38.9071923,-77.0368707
+Logan,male,Social Media Strategist,"Higher Education,Marketing and Advertising,Computer Software","Washington, DC, USA",38.9071923,-77.0368707
+Neal,male,Software Engineer,"Computer Software,Information Technology and Services,Banking,Consumer Services,Design","Washington, DC, USA",38.9071923,-77.0368707
+Marc,male,Software Engineer,"Computer Software,Computer & Network Security,Information Technology and Services","Washington, DC, USA",38.9071923,-77.0368707
+Dean,male,System Administrator,"Automotive,Computer Games,Computer Software,Executive Office,Food Production","Washington, NC, USA",35.5465517,-77.0521742
+Vinay,male,Unemployed,"Computer Software,Information Technology and Services,Information Services","Washington, DC, USA",38.9071923,-77.0368707
+Olivia JS,female,Visual Design Lead,"Information Technology and Services,Computer Software,Graphic Design,Design,Logistics and Supply Chain","Washington, DC, USA",38.9071923,-77.0368707
+Ashley,female,Web Developer,"Information Technology and Services,Computer Software","Washington, DC, USA",38.9071923,-77.0368707
+Laura,female,consultant,"Computer Software,Hospital & Health Care,Apparel & Fashion,Food & Beverages,Leisure, Travel & Tourism","Washington, DC, USA",38.9071923,-77.0368707

@@ -1,0 +1,142 @@
+{
+
+    "numberOfParticipants" : 8,
+    "timezone" : "America/New_York",
+    "cities" : [ 
+        {
+            "location" : {
+                "id" : "ChIJOwg_06VPwokRYv534QaPC8g",
+                "city" : "New York",
+                "state" : "NY",
+                "country" : "US",
+                "formattedAddress" : "New York, NY, USA",
+                "location" : {
+                    "latitude" : 40.7127753,
+                    "longitude" : -74.0059728
+                }
+            }
+        }, 
+        {
+            "location" : {
+                "id" : "ChIJ60u11Ni3xokRwVg-jNgU9Yk",
+                "city" : "Philadelphia",
+                "state" : "PA",
+                "country" : "US",
+                "formattedAddress" : "Philadelphia, PA, USA",
+                "location" : {
+                    "latitude" : 39.9525839,
+                    "longitude" : -75.1652215
+                }
+            }
+        }, 
+        {
+            "location" : {
+                "id" : "ChIJEcHIDqKw2YgRZU-t3XHylv8",
+                "city" : "Miami",
+                "state" : "FL",
+                "country" : "US",
+                "formattedAddress" : "Miami, FL, USA",
+                "location" : {
+                    "latitude" : 25.7616798,
+                    "longitude" : -80.1917902
+                }
+            }
+        }, 
+        {
+            "location" : {
+                "id" : "ChIJS5dFe_cZTIYRj2dH9qSb7Lk",
+                "city" : "Dallas",
+                "state" : "TX",
+                "country" : "US",
+                "formattedAddress" : "Dallas, TX, USA",
+                "location" : {
+                    "latitude" : 32.7766642,
+                    "longitude" : -96.7969879
+                }
+            }
+        }, 
+        {
+            "location" : {
+                "id" : "ChIJE9on3F3HwoAR9AhGJW_fL-I",
+                "city" : "Los Angeles",
+                "state" : "CA",
+                "country" : "US",
+                "formattedAddress" : "Los Angeles, CA, USA",
+                "location" : {
+                    "latitude" : 34.0522342,
+                    "longitude" : -118.2436849
+                }
+            }
+        }, 
+        {
+            "location" : {
+                "id" : "ChIJIQBpAG2ahYAR_6128GcTUEo",
+                "city" : "San Francisco",
+                "state" : "CA",
+                "country" : "US",
+                "formattedAddress" : "San Francisco, CA, USA",
+                "location" : {
+                    "latitude" : 37.7749295,
+                    "longitude" : -122.4194155
+                }
+            }
+        }, 
+        {
+            "location" : {
+                "id" : "ChIJGzE9DS1l44kRoOhiASS_fHg",
+                "city" : "Boston",
+                "state" : "MA",
+                "country" : "US",
+                "formattedAddress" : "Boston, MA, USA",
+                "location" : {
+                    "latitude" : 42.3600825,
+                    "longitude" : -71.0588801
+                }
+            }
+        }, 
+        {
+            "location" : {
+                "id" : "ChIJW-T2Wt7Gt4kRKl2I1CJFUsI",
+                "city" : "Washington",
+                "state" : "DC",
+                "country" : "US",
+                "formattedAddress" : "Washington, DC, USA",
+                "location" : {
+                    "latitude" : 38.9071923,
+                    "longitude" : -77.0368707
+                }
+            }
+        }
+    ],
+    "genders" : "N/A",
+    "country" : "US",
+    "incentive" : 120,
+    "name" : "Looking for software engineers experienced with Kafka",
+    "professionalJobTitles" : [ 
+        "Developer", 
+        "Software Engineer", 
+        "Software Developer", 
+        "Programmer", 
+        "Java Developer", 
+        "Java/J2EE Developer", 
+        "Java Full Stack Developer", 
+        "Java Software Engineer", 
+        "Java Software Developer", 
+        "Application Architect", 
+        "Application Developer"
+    ],
+    "professionalIndustry" : [ 
+        "Banking", 
+        "Financial Services", 
+        "Government Administration", 
+        "Insurance", 
+        "Retail", 
+        "Supermarkets", 
+        "Automotive",
+        "Computer Software"
+    ],
+    "education":[
+        "bachelordegree",
+        "masterdegree"
+    ]
+}

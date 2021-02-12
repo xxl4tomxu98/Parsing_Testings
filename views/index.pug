@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+html(lang="en")
+    head
+        meta(charset="UTF-8")
+        meta(name="viewport", content="width=device-width, initial-scale=1.0")
+        title Document
+    body
+        ul
+            if results
+                 each result in results
+                    li
+                        ul
+                            li Respondent name: #{result.name}
+                            li Distance to closest city: #{result.closestAvailableCity.distance}
+                            li Matching Score: #{result.score}
+                    p ----------------------------------------------

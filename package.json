@@ -1,0 +1,27 @@
+{
+    "name": "respondent-software_engineer-back_end-technical_test",
+    "version": "1.0.0",
+    "description": "Matching Respondents with Projects",
+    "main": "index.js",
+    "scripts": {
+        "run": "npx run-func RespondentMatcher.js demo",
+        "run2": "npx run-func RespondentMatcher.js demo2",
+        "start": "node ./app/index.js",
+        "nodemon-start": "nodemon ./app/index.js",
+        "test": "./node_modules/mocha/bin/mocha"
+    },
+    "author": "jony_almeida",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.17.1",
+        "pug": "^3.0.0"
+    },
+    "devDependencies": {
+        "chai": "^4.2.0",
+        "chai-as-promised": "^7.1.1",
+        "chai-spies": "^1.0.0",
+        "inherits": "^2.0.4",
+        "mocha": "^8.2.1",
+        "nodemon": "^2.0.6"
+    }
+}
