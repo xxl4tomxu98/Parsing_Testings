@@ -10,7 +10,7 @@
         "nodemon-start": "nodemon ./app/index.js",
         "test": "./node_modules/mocha/bin/mocha"
     },
-    "author": "jony_almeida",
+
     "license": "ISC",
     "dependencies": {
         "express": "^4.17.1",
