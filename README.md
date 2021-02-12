@@ -1,6 +1,5 @@
 # Respondent Matcher
 
-By Jony Almeida-
 
 ## Run the program
 
